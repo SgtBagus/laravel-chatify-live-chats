@@ -53,7 +53,4 @@ php artisan serve
 
 8. Sekarang, Anda dapat mengakses situs web melalui browser dengan URL [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-Selamat menggunakan Laravel Chatify Live Chats! Jika Anda mengalami masalah selama instalasi, pastikan untuk memeriksa pesan kesalahan dan dokumentasi resmi Laravel.
-```
-
-Pastikan untuk mengganti URL proyek GitHub, nama database, dan URL situs web sesuai dengan proyek dan preferensi Anda.
+Selamat menggunakan Laravel Chatify Live Chats! Jika Mengalami masalah selama instalasi, bisa hubungi saya melalui WA.
