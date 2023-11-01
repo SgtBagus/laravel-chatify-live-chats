@@ -1,4 +1,3 @@
-```markdown
 # Instalasi Laravel dengan Laravel Live Chats
 
 Ini adalah panduan langkah-demi-langkah untuk menginstal proyek Laravel Chatify Live Chats dari GitHub.
